@@ -5,6 +5,7 @@ El **Modelo de Conos Dobles Celestes (MCDC)** es una representación geométrica
 - Un **Cinturón Ecuatorial Dinámico (CED)** que aparece como un arco que va de este → cénit → oeste sobre el observador.
 - Un **observador** situado en la Tierra (por ejemplo en Córdoba, Argentina), mirando al sur, con los conos a izquierda/derecha y el arco pasando por encima.
 Es un modelo astronómico puro: no depende de teoría de complejidad, P vs NP ni nada fuera de la geometría y la física del cielo.
+MCDC-Grafica.jpg
 ---
 ## 2. Estructura geométrica
 ### 2.1 Conos celestes
