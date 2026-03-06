@@ -1,6 +1,7 @@
 # MCDC – Double Celestial Cones Model  
-Santiago Acosta · Córdoba, Argentina · Independent Researcher  
-Axiomatic AI Safety · @ImTheArquitect
+Santiago Acosta • Córdoba, Argentina • 
+Independent Researcher - Axiomatic AI Safety
++5493516883177 • santiago.acosta.aisafety@gmail.com
 ---
 ![MCDC-Grafica](https://github.com/user-attachments/assets/6e4f8cf9-f9e4-4876-afee-0ac7e23605e0)
 ## What MCDC is
@@ -39,6 +40,7 @@ The same logic applies to any system:
 | Financial markets   | Macro regimes (expansion / contraction)               | Prices and volatility                  |
 | Mathematical physics      | Unquestioned assumptions (continuum, frame of reference) | "Unsolvable" equations             |
 | Biology / consciousness  | Algorithm of thought (software)                      | Physical body (hardware)               |
+
 MCDC is the method to make visible what governs without being seen.
 ## Geometric structure and navigation
 - There always exist two vertices (north and south) that act as anchors.  
