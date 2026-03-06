@@ -8,8 +8,6 @@ Independent Researcher - Axiomatic AI Safety
 [![Research](https://img.shields.io/badge/Research-Astronomical%20%26%20Computational-blue.svg)](#por-qué-importa)
 [![Open Source](https://img.shields.io/badge/Open-Source-yellow.svg)](#)
 
-MCDC es un modelo astronómico original...
-
 ## What MCDC is
 MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
 It describes three concrete geometric elements:
@@ -18,8 +16,6 @@ It describes three concrete geometric elements:
 - **CED (Cincture Equatorial Dynamic)** — the strip of sky through which the Sun, Orion and the constellations move from east to west every 24 hours.  
 The observer is at the center: cones to the left and right, CED passing overhead.  
 CED works in both languages:
-- Español: **Cinturón Ecuatorial Dinámico**  
-- English: **Cincture Equatorial Dynamic**
 From the equator you can see perfectly how everything rotates from east to west along the same strip; that is why I called it Cincture Equatorial Dynamic.
 A detail almost nobody asks about: from Argentina we never see a part of the sky, we do not know the important stars of the north. The Egyptians, Mayans, etc. were not crazy: for example, Orion's Belt passes through the same place half the year, always. It is not that hard to aim at it and align a pyramid if you understand this pattern.
 ## Why it matters
