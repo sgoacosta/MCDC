@@ -102,7 +102,7 @@ Córdoba, Argentina
 - X: [@TdlDistraccion](https://x.com/TdlDistraccion)
 > "The master thesis that runs through everything — MCDC, ATLANTE, PrediCT, URA, Framework P‑X, DeepGrid — is always the same: to find the hidden fixed point that governs any dynamic system. In the sky it is Polaris. In an LLM it is the System Prompt. In a betting market it is the Odds. In Navier–Stokes it is the frame of reference that nobody questions. In P vs NP it is the apples that nobody counted."
 ---
-![MCDC-Grafica](https://github.com/user-attachments/assets/6e4f8cf9-f9e4-4876-afee-0ac7e23605e0)
+![MCDC-Grafica](https://github.com/user-attachments/assets/586d52eb-7a87-40f7-b9f7-537e9bb9987b)
 
 License: MIT  
 This repository defines the MCDC as the root of a complete research programme.  
