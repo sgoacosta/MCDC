@@ -3,7 +3,15 @@ Santiago Acosta • Córdoba, Argentina •
 Independent Researcher - Axiomatic AI Safety
 +5493516883177 • santiago.acosta.aisafety@gmail.com
 ---
-![MCDC-Grafica](https://github.com/user-attachments/assets/6e4f8cf9-f9e4-4876-afee-0ac7e23605e0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Verified](https://img.shields.io/badge/Status-Verified%20Feb%202025-brightgreen.svg)](#estado-actual)
+[![Research](https://img.shields.io/badge/Research-Astronomical%20%26%20Computational-blue.svg)](#por-qué-importa)
+[![Status: Verified in Córdoba, 2020](https://img.shields.io/badge/Status-Verified%20in%20C%C3%B3rdoba,%202025-green.svg)](#estado-actual)
+[![Open Source](https://img.shields.io/badge/Open-Source-yellow.svg)](#)
+# 🌌 MCDC – Double Celestial Cones Model  
+
+MCDC es un modelo astronómico original...
+
 ## What MCDC is
 MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
 It describes three concrete geometric elements:
@@ -100,6 +108,8 @@ Córdoba, Argentina
 - X: [@TdlDistraccion](https://x.com/TdlDistraccion)
 > "The master thesis that runs through everything — MCDC, ATLANTE, PrediCT, URA, Framework P‑X, DeepGrid — is always the same: to find the hidden fixed point that governs any dynamic system. In the sky it is Polaris. In an LLM it is the System Prompt. In a betting market it is the Odds. In Navier–Stokes it is the frame of reference that nobody questions. In P vs NP it is the apples that nobody counted."
 ---
+![MCDC-Grafica](https://github.com/user-attachments/assets/6e4f8cf9-f9e4-4876-afee-0ac7e23605e0)
+
 License: MIT  
 This repository defines the MCDC as the root of a complete research programme.  
 Each branch lives in its own repository.
