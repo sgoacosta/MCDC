@@ -1,15 +1,15 @@
 # MCDC – Double Celestial Cones Model  
 ---
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Verified](https://img.shields.io/badge/Status-Verified%20Feb%202025-brightgreen.svg)](#estado-actual)
+[![Status: Verified](https://img.shields.io/badge/Status-Verified%20Feb%202025-brightgreen.svg)](#current-status)
 [![Open Source](https://img.shields.io/badge/Open-Source-yellow.svg)](#)
 
 ## What MCDC is
 MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
 It describes three concrete geometric elements:
 - **Polar Cone (North)** — vertex near the north celestial pole. Today it is approximately where we see Polaris, but it shifts slowly due to precession. What matters is not the exact star, but that there is always a point in the north around which everything rotates.  
-- **Crucial Cone (South)** — vertex near the south celestial pole. Today it is approximately where we see Gaia DR2 5188149519510780288 Located using the Southern Cross region (Crux): the star we see most aligned with the "center" of the rotations from the south.  
-- **CED (Cincture Equatorial Dynamic)** — the strip of sky through which the Sun, Orion and the constellations rotates from east to west along the time, that is why I called it Cincture Equatorial Dynamic.
+- **Crucial Cone (South)** — vertex near the south celestial pole. Today it is approximately where we see Gaia DR2 5188149519510780288, located using the Southern Cross region (Crux): the star we see most aligned with the "center" of the rotations from the south.  
+- **CED (Cincture Equatorial Dynamic)** — the strip of sky through which the Sun, Orion and the constellations rotate from east to west over time; that is why I called it Cincture Equatorial Dynamic.  
 A detail almost nobody asks about: from Argentina we never see a part of the sky, we do not know the important stars of the north. The Egyptians, Mayans, etc., were not "mystical geniuses" nor did they use impossible technology: for example, Orion's Belt passes through the same place half the year, always. It is not that hard to aim at it and align a pyramid if you understand this pattern.
 ## Why it matters
 MCDC is not just a model of the sky. It is the conceptual root of a complete research programme.  
