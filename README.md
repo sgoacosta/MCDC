@@ -83,6 +83,9 @@ X: [@TdlDistraccion](https://x.com/TdlDistraccion)
 ---
 ![MCDC-Grafica](https://github.com/user-attachments/assets/586d52eb-7a87-40f7-b9f7-537e9bb9987b)
 
+## Usage and credit
+This is the original definition of the MCDC framework. It is released as open-source under MIT so that others can explore applications I have not yet tested. If you use MCDC or derive new models from it, please credit this repository and, if possible, contact me with a short description of your use.
+
 License: MIT  
 This repository defines the MCDC as the root of a complete research programme.  
 Each branch lives in its own repository.
