@@ -2,7 +2,8 @@
 ---
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Verified](https://img.shields.io/badge/Status-Verified%20Feb%202025-brightgreen.svg)](#current-status)
-[![Open Source](https://img.shields.io/badge/Open-Source-yellow.svg)](#)
+[![Open Source](https://img.shields.io/badge/Open-Source-yellow.svg)](https://github.com/sgoacosta/MCDC)
+[![Usage & Credit](https://img.shields.io/badge/Usage-%26%20Credit-orange.svg)](#usage-and-credit)
 
 ## What MCDC is
 MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
