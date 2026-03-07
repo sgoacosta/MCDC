@@ -80,7 +80,7 @@ Everything below is an application of the same principle — finding the hidden 
 | `ATLANTE-MCDC`       | Integrated multimedia ecosystem. Operational layers for knowledge organisation. |
 ## Proprietary methodologies
 - URA (Unified Representation Architecture) — cooperative activation of full capabilities in AIs.
-- Methodology — adversarial auditing and technique to break institutional biases without technical exploits, through dialogue and axiomatic pressure.
+- Personal methodology — adversarial auditing and techniques to break institutional biases without technical exploits, through dialogue and axiomatic pressure.
 - CDI&HS + RPC&K — (information extraction from hidden layers + professional competence framework).
 ## Current status
 - Astronomical MCDC: empirically verified from Córdoba, Argentina (February 2025).  
