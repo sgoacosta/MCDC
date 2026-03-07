@@ -53,10 +53,10 @@ With that:
 In principle, this allows locating comets, planets and other bodies with great intuition and, potentially, more accuracy than many methods that rely only on abstractions.
 Long-exposure photographs are useful to see it for the first time, but after someone explains it to you, you no longer need them: it is visible to the naked eye. You know there are two fixed points (north and south) and that everything else spins between them from east to west.
 ## How to verify
-1. Choose an observation point, facing south or north.  
-2. Take photographs or observe every 30 minutes.  
-3. Superimpose the photos. Identify the nearly motionless point and the single arc that revolves around it (east to west).  
-4. Trace the two cones (north/south) and the CED band.  
+- Choose an observation point, facing south or north.  
+- Take photographs or observe every 30 minutes.  
+- Superimpose the photos. Identify the nearly motionless point and the single arc that revolves around it (east to west).  
+- Trace the two cones (north/south) and the CED band.  
 You need: camera · clear night · patience · several hours of observation  
 The model is empirically verifiable by anyone and reproducible with public software such as Stellarium.
 ## Projects derived from MCDC | Project tree
