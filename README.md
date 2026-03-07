@@ -8,22 +8,16 @@
 MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
 It describes three concrete geometric elements:
 - **Polar Cone (North)** — vertex near the north celestial pole. Today it is approximately where we see Polaris, but it shifts slowly due to precession. What matters is not the exact star, but that there is always a point in the north around which everything rotates.  
-- **Crucial Cone (South)** — vertex near the south celestial pole. Located using the Southern Cross region (Crux): the star we see most aligned with the "center" of the rotations from the south.  
-- **CED (Cincture Equatorial Dynamic)** — the strip of sky through which the Sun, Orion and the constellations move from east to west every 24 hours.  
-The observer is at the center: cones to the left and right, CED passing overhead.  
-From the equator you can see perfectly how everything rotates from east to west along the same strip; that is why I called it Cincture Equatorial Dynamic.
-A detail almost nobody asks about: from Argentina we never see a part of the sky, we do not know the important stars of the north. The Egyptians, Mayans, etc. were not crazy: for example, Orion's Belt passes through the same place half the year, always. It is not that hard to aim at it and align a pyramid if you understand this pattern.
+- **Crucial Cone (South)** — vertex near the south celestial pole. Today it is approximately where we see Gaia DR2 5188149519510780288 Located using the Southern Cross region (Crux): the star we see most aligned with the "center" of the rotations from the south.  
+- **CED (Cincture Equatorial Dynamic)** — the strip of sky through which the Sun, Orion and the constellations rotates from east to west along the time, that is why I called it Cincture Equatorial Dynamic.
+A detail almost nobody asks about: from Argentina we never see a part of the sky, we do not know the important stars of the north. The Egyptians, Mayans, etc., were not "mystical geniuses" nor did they use impossible technology: for example, Orion's Belt passes through the same place half the year, always. It is not that hard to aim at it and align a pyramid if you understand this pattern.
 ## Why it matters
 MCDC is not just a model of the sky. It is the conceptual root of a complete research programme.  
 The single thesis that runs through all the work is:
 > To find the fixed anchors that govern any dynamic system.
-In the MCDC there is never just one fixed point. If there were only one, everything would be pulled in the same direction and there would be no real choice. The model always has **two anchors** (north and south). Between them stretches a belt that spins from east to west every 24 hours. With those three elements (north anchor, south anchor, spinning belt) you can locate yourself and measure space in any direction of the sky.
+The model always has **two anchors** (north and south). Between them stretches a belt that spins from east to west every 24 hours. With those three elements you can locate yourself and measure space in any direction of the universe observable.
 This matches the way I think: always look at both sides of the coin, see the full picture. I am not interested in a partial truth that forces everyone to move in one direction, but in the **complete truth** that lets you infer which point you should follow.
-Example with apples:
-- You have a belt that spins with apples stuck on it (stars, planets).  
-- You have two fixed nails where the belt rests (north pole and south pole).  
-- It does not matter how many apples you add or remove: as long as the nails do not move, you can measure everything — how long it takes for an apple to return to the same place, what angle it covers, where you will see it again.
-I do the same thing but with the universe: I use those fixed points and the spinning belt to measure the size of the system and set limits. From there comes:
+From there comes:
 - A concrete measurement of the universe (not just "abstract").  
 - The idea that certain problems (Clay type) are unsolvable **within** these physical limits: the universe itself does not have enough time/energy to test all possible combinations.  
 The same logic applies to any system:
@@ -39,15 +33,6 @@ The same logic applies to any system:
 | Biology / consciousness  | Algorithm of thought (software)                      | Physical body (hardware)               |
 
 MCDC is the method to make visible what governs without being seen.
-## Geometric structure and navigation
-- There always exist two vertices (north and south) that act as anchors.  
-- Between them, the CED marks the strip of daily movement from east to west.  
-With that:
-- Anyone can orient themselves at night just by understanding where those anchors are.  
-- In navigation, it does not matter where you are on Earth: you always have two guides and a belt that spins.  
-- If you move within the solar system or within the visible universe, you can keep using the same scheme: you look for what acts as "pole" and what acts as "spinning belt" and measure from there.  
-In principle, this allows locating comets, planets and other bodies with great intuition and, potentially, more accuracy than many methods that rely only on abstractions.
-Long-exposure photographs are useful to see it for the first time, but after someone explains it to you, you no longer need them: it is visible to the naked eye. You know there are two fixed points (north and south) and that everything else spins between them from east to west.
 ## How to verify
 - Choose an observation point, facing south or north.  
 - Take photographs or observe every 30 minutes.  
