@@ -66,10 +66,10 @@ To reflect that the celestial poles are not strictly fixed:
 ### 3.2 From Polaris to Vega (example)
 - In the north:
   - Today: cone vertex near Polaris.
-  - In ~12,000 years: vertex near Vega.
+  - In ~12.000 years: vertex near Vega.
 - In the model:
   - The vertex of the Polar Cone traces a circle (or closed trajectory) on the celestial sphere over the precession cycle.
-  - This trajectory can be parametrized in equatorial or ecliptic coordinates as a closed curve with a period of ≈ 25,772 years.
+  - This trajectory can be parametrized in equatorial or ecliptic coordinates as a closed curve with a period of ≈ 25.772 years.
 
 ## 4. Generalization to other bodies
 The MCDC scheme is not limited to Earth:
