@@ -41,7 +41,7 @@ To reflect that the celestial poles are not strictly fixed:
 
 ### 3.1 Precession of Earth’s axis
 - Mean precession rate: ≈ 50.29'' per year.
-- Simplified angular model: θ(t) = θ₀ + k t
+- Simplified angular model: $$\theta(t) = \theta_0 + k t$$
    where \(k\) encodes the precession rate in radians per year.
 
 ### 3.2 From Polaris to Vega (example)
