@@ -1,5 +1,5 @@
 # Mathematical Annex – MCDC 2.0
-The MCDC 2.0 model is introduced in the main README as an intuitive geometric representation of the celestial sphere. This annex focuses exclusively on its mathematical structure.
+The MCDC 2.0 model is introduced in the main README as an intuitive geometric representation of the observable sky. This annex focuses exclusively on its mathematical structure.
 
 ## Purpose of this annex
 - Present the equations and assumptions of the model.
