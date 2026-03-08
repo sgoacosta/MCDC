@@ -25,8 +25,8 @@ The CED defines the observable limit of the sky in the east–west direction. It
 Let \(d_{\text{max}}\) be the maximum observable distance toward the east (or west). Then the diameter of the CED is:
 
 \[   
-D_{\text{CED}} = 2 \cdot d_{\text{max}}   
-\]
+D_{\text{CED}} = 2 \cdot d_{\text{max}}}   
+}}\]
 
 This value represents the maximum separation between two observable points in opposite directions along the celestial equator.
 
