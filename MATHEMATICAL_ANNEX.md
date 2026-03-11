@@ -8,7 +8,7 @@ The MCDC 2.0 model is introduced in the main README as an intuitive geometric re
 
 ## 1. Basic geometry of MCDC 2.0
 - Two fixed cones: Polar Cone (north) and Crucial Cone (south).
-- CED (Cincture Equatorial Dynamic): join of the cones dynamic east–zenith–west arc that represents the apparent motion of the sky. 
+- CED (Cincture Equatorial Dynamic): dynamic band formed by the intersection of the two cones that contains the east–zenith–west trajectories that represents the apparent motion of the sky. 
 - Observer‑centric approach: in this case the origin of the system is the observer on the Earth’s surface.
 
 ### 1.1 Cones in classical conical form
@@ -26,7 +26,7 @@ Let $d_{\text{max}}$ be the maximum observable distance toward the east (or west
 
 $D_{\text{CED}} = 2 \cdot d_{\text{max}}$
 
-This value represents the maximum separation between two observable points in opposite directions along the celestial equator.
+TThis value represents the maximum separation between two observable points in opposite directions along the CED band.
 
 In the context of the MCDC, $d_{\text{max}}$ corresponds to the distance of the farthest star or galaxy detectable near the eastern and western horizons. The CED diameter becomes a fundamental geometric parameter of the observable universe.
 
