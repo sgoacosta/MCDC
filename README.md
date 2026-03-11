@@ -6,7 +6,7 @@
 [![Usage & Credit](https://img.shields.io/badge/Usage-%26%20Credit-orange.svg)](#usage-and-credit)
 
 ## What MCDC is
-THE DOUBLE CELESTIAL CONES MODEL Physical Structure: The model consists of two symmetric cones joined at the Celestial Equator. MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
+THE DOUBLE CELESTIAL CONES MODEL Physical Structure: The model consists of two symmetric cones joined at their bases, with the shared plane corresponding to the Celestial Equator. MCDC is an original astronomical model built from real long-exposure photographs of the night sky, observed from the southern hemisphere (Argentina).  
 It describes three concrete geometric elements:
 - **Polar Cone (North)** — the north vertex today it is approximately where we see Polaris, but it shifts slowly due to precession. What matters is not the exact star, but that there is always a point in the north around which everything rotates.  
 - **Crucial Cone (South)** — the south vertex today it is approximately where we see Gaia DR2 5188149519510780288, located using the Southern Cross region (Crux): the star we see most aligned with the "center" of the rotations from the south.  
